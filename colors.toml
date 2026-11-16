@@ -1,0 +1,32 @@
+# Graph Paper Dark
+mode = "dark"
+
+accent = "#7aa2c7"
+selection = "#33445a"
+muted = "#5b6f86"
+
+background = "#1b2430"
+dark_background = "#141c26"
+darker_background = "#0f151d"
+lighter_background = "#243142"
+
+foreground = "#d8e0ea"
+dark_foreground = "#8898aa"
+light_foreground = "#b8c5d3"
+bright_foreground = "#eef4fa"
+
+red = "#d97979"
+yellow = "#d4b86a"
+orange = "#d79a6a"
+green = "#7fbe8d"
+cyan = "#6fb9b8"
+blue = "#7aa2c7"
+magenta = "#b08bc2"
+brown = "#8a7562"
+
+bright_red = "#e89a9a"
+bright_yellow = "#e4cd86"
+bright_green = "#9bd3a7"
+bright_cyan = "#8fd0cf"
+bright_blue = "#98bddf"
+bright_magenta = "#c9a7d8"
