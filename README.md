@@ -7,10 +7,10 @@ A dark graph-paper theme for [Omarchy](https://omarchy.org/): deep slate surface
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<your-username>/omarchy-graph-paper-dark-theme
+omarchy theme install https://github.com/abhinavbxr/omarchy-graph-paper-dark-theme
 ```
 
-> Replace `<your-username>` with your GitHub username and update the repository name if you publish under a different slug.
+
 
 ## Try locally
 
